@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Sagarika Bhagat
+## Hi there 👋 I'm Sagarika
 
 🎓 I'm a Master's student in Information Systems at Georgia State University, focusing on **Digital Innovation** — where business meets technology. I bring a unique blend of product thinking, data analytics, and research experience to build scalable, user-focused solutions.
 
-🔍 My passion lies in solving real-world problems using data, AI, and product strategy. Whether it’s building dashboards that inform product decisions, designing voice-first interfaces, or creating NLP-powered tools to fight misinformation — I enjoy working across the stack from insight to implementation.
+My passion lies in solving real-world problems using data, AI, and product strategy. Whether it’s building dashboards that inform product decisions, designing voice-first interfaces, or creating NLP-powered tools to fight misinformation — I enjoy working across the stack from insight to implementation.
 
 ### 🚀 What I Do
 - **Data Analytics**: Python, SQL, Power BI, Excel, Tableau  
