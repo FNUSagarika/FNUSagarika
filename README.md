@@ -11,10 +11,10 @@
 - **Tools & Platforms**: SAP Build, Azure ML Studio, Flask, Streamlit, FastAPI, Git, Postman  
 
 ### Featured Projects
-- ** AI-Powered Wheelchair for Airport Mobility** – Voice-based navigation + obstacle detection  
-- ** Fake News Detection (RAG + GPT-4o)** – Real-time fact-checking using LangChain and Wikipedia  
-- ** Customer Churn Prediction** – Machine learning + Power BI dashboard for strategic insights  
-- ** ROI Calculator for SaaS** – Data pipeline + dashboard for calculating usage-based savings  
+- **AI-Powered Wheelchair for Airport Mobility** – Voice-based navigation + obstacle detection  
+- **Fake News Detection (RAG + GPT-4o)** – Real-time fact-checking using LangChain and Wikipedia  
+- **Customer Churn Prediction** – Machine learning + Power BI dashboard for strategic insights  
+- **ROI Calculator for SaaS** – Data pipeline + dashboard for calculating usage-based savings  
 
  **Portfolio**: [View Full Project Portfolio](https://www.notion.so/Hi-I-m-Sagarika-20c95e439e1d80fba7c8c7391c53b1d5)  
  **GitHub Projects**: [github.com/FNUSagarika](https://github.com/FNUSagarika)  
