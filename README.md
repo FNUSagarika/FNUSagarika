@@ -11,13 +11,11 @@ My passion lies in solving real-world problems using data, AI, and product strat
 - **Tools & Platforms**: SAP Build, Azure ML Studio, Flask, Streamlit, FastAPI, Git, Postman  
 
 ### Featured Projects
-- **AI-Powered Wheelchair for Airport Mobility** – Voice-based navigation + obstacle detection  
+- **AI-Powered Wheelchair for Airport Mobility** – Voice-based navigation + obstacle detection [Link](https://www.notion.so/Redefining-Airport-Mobility-with-AI-Powered-Innovation-20c95e439e1d81b6b3afd4610aaf7c04?source=copy_link)  
 - **Fake News Detection (RAG + GPT-4o)** – Real-time fact-checking using LangChain and Wikipedia  
-- **Customer Churn Prediction** – Machine learning + Power BI dashboard for strategic insights  
-- **ROI Calculator for SaaS** – Data pipeline + dashboard for calculating usage-based savings  
+- **Customer Churn Prediction** – Machine learning + dashboard for strategic insights  
 
- **Portfolio**: [View Full Project Portfolio](https://www.notion.so/Hi-I-m-Sagarika-20c95e439e1d80fba7c8c7391c53b1d5)  
- **GitHub Projects**: [github.com/FNUSagarika](https://github.com/FNUSagarika)  
+ **Portfolio**: [View Portfolio](https://www.notion.so/Hi-I-m-Sagarika-20c95e439e1d80fba7c8c7391c53b1d5)  
  **Reach me**: sagarikabhagat8@gmail.com | [LinkedIn](https://www.linkedin.com/in/sagarika-bhagat/)
 
 ---
