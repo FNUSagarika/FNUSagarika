@@ -16,7 +16,7 @@ My passion lies in solving real-world problems using data, AI, and product strat
 - **Customer Churn Prediction** – Machine learning + dashboard for strategic insights  
 
  **Portfolio**: [View Portfolio](https://www.notion.so/Hi-I-m-Sagarika-20c95e439e1d80fba7c8c7391c53b1d5)  
- **Reach me**: sagarikabhagat8@gmail.com | [LinkedIn](https://www.linkedin.com/in/sagarika-bhagat/)
+ **Reach me**: sagarikafnu@gmail.com | [LinkedIn](https://www.linkedin.com/in/sagarika-bhagat/)
 
 ---
 
