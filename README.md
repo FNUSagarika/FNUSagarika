@@ -8,7 +8,7 @@ My passion lies in solving real-world problems using data, AI, and product strat
 - **Data Analytics**: Python, SQL, Power BI, Excel, Tableau  
 - **Product & UX**: Agile, User Research, Figma, Mixpanel, KPI Design  
 - **AI Projects**: NLP (sentiment analysis, fact-checking), RAG pipelines, LangChain, LLMs  
-- **Tools & Platforms**: SAP Build, Azure ML Studio, Flask, Streamlit, FastAPI, Git, Postman  
+- **Tools & Platforms**: SAP Build, Azure ML Studio, Flask, Streamlit, FastAPI, Git, Swagger API, REST API  
 
 ### Featured Projects
 - **AI-Powered Wheelchair for Airport Mobility** – Voice-based navigation + obstacle detection [Link](https://www.notion.so/Redefining-Airport-Mobility-with-AI-Powered-Innovation-20c95e439e1d81b6b3afd4610aaf7c04?source=copy_link)  
