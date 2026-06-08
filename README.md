@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sagarika
 
-🎓 I'm a Master’s graduate in Information Systems from Georgia State University's Robinson College of Business. I bring a unique blend of product thinking, data analytics, and research experience to build scalable, user-focused solutions.
+I bring a unique blend of product thinking, data analytics, and research experience to build scalable, user-focused solutions.
 
 My passion lies in solving real-world problems using data, AI, and product strategy. Whether it’s building dashboards that inform product decisions, designing voice-first interfaces, or creating NLP-powered tools to fight misinformation — I enjoy working across the stack from insight to implementation.
 
